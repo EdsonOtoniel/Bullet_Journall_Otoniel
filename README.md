@@ -68,3 +68,178 @@ Este Bullet Journal foi desenhado para funcionar por **anos**, não por semanas.
 │ └── Habit Dashboard.md
 │
 └── Dashboard.md
+
+---
+
+## 📌 Componentes Principais
+
+### 🧭 Life Map
+Documento de identidade e direção.
+
+Define:
+- Papéis fundamentais
+- Valores
+- Princípios de decisão
+- Filtros para priorização
+
+É usado para alinhar decisões, não como checklist.
+
+---
+
+### 🎯 Goals (Short / Medium / Long Term)
+
+- **Short Term (1–3 meses):** ações concretas que alimentam o Monthly
+- **Medium Term (4–12 meses):** consolidação de projetos e competências
+- **Long Term (1–5 anos):** identidade e direção estratégica
+
+Formato padrão:
+
+- Nome do objetivo ::peso (1–4)
+📅 Future Log
+Visão anual de crescimento.
+
+Usado para:
+
+Marcos importantes
+
+Eventos relevantes
+
+Revisões estruturais
+
+Não é uma lista de tarefas.
+
+📆 Monthly Log
+Ponto central de controle mensal.
+
+Inclui:
+
+Metas derivadas dos Goals
+
+Quadro Progresso + Streak por hábito
+
+Revisão mensal guiada
+
+🗓️ Daily Log
+Unidade mínima de execução.
+
+Inclui:
+
+Meta principal do dia
+
+Tarefas
+
+Log rápido
+
+Registro de hábitos com intensidade
+
+Exemplo:
+
+Copiar código
+- [x] Academia 🏋️ ::4
+🔁 Sistema de Hábitos com Intensidade
+Habits (Master)
+Arquivo central que define todos os hábitos.
+
+Exemplo:
+
+Copiar código
+## Saúde
+- Academia 🏋️ ::4
+- Dormir bem 😴 ::4
+- Beber água 💧 ::2
+Habit Log
+Arquivo de backup para dias sem Daily Log.
+
+Exemplo:
+
+Copiar código
+## 2025-12-27
+- [x] Academia 🏋️ ::4
+- [x] Beber água 💧 ::2
+Heatmaps
+Cada hábito possui um heatmap anual, com intensidade de 1 a 4, lido automaticamente de:
+
+Daily Log
+
+Habit Log (fallback)
+
+A visualização é feita com o plugin Heatmap Calendar.
+
+📊 Dashboard
+Arquivo central de navegação e decisão.
+
+Reúne:
+
+Links rápidos para Daily, Monthly e Future Log
+
+Acesso aos Goals
+
+Links para heatmaps
+
+Visão geral do progresso
+
+O Dashboard não é para editar, mas para decidir para onde ir.
+
+🔌 Plugins Necessários
+Essenciais
+Dataview
+
+DataviewJS
+
+Tasks
+
+Templater
+
+Recomendados
+Heatmap Calendar
+https://github.com/Richardsl/heatmap-calendar-obsidian
+
+Periodic Notes
+
+Minimal Theme
+
+⚙️ Como Colocar em Uso
+Clone este repositório
+
+Abra a pasta como um vault no Obsidian
+
+Instale os plugins listados
+
+Ative JavaScript queries no Dataview
+
+Configure o Templater (pasta 00_⚙️ System/Templates)
+
+Crie seu primeiro Daily
+
+Registre hábitos usando ::1–4
+
+Use o Dashboard como ponto central
+
+🎯 Para Quem Este Sistema É Indicado
+Pesquisadores
+
+Professores
+
+Estudantes avançados
+
+Pessoas orientadas a longo prazo
+
+Quem deseja integrar vida pessoal e profissional em um único sistema
+
+❌ O Que Este Sistema Não É
+Um app de produtividade instantânea
+
+Uma lista infinita de tarefas
+
+Um sistema de pressão ou cobrança constante
+
+Este é um sistema de vida, não de estresse.
+
+📜 Licença
+Uso pessoal e educacional livre.
+Sinta-se à vontade para adaptar, melhorar ou fazer fork.
+
+✨ Autor
+Edson Otoniel
+Sistema desenvolvido a partir de práticas reais de pesquisa, ensino e organização pessoal.
+
